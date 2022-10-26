@@ -13,6 +13,7 @@ public class Ericsson extends SonyClass {
 	public  void method2()
 	{
 		System.out.println("Ercisson class method");
+		System.out.println("GIT changes code");
 		method();
 		
 	}
